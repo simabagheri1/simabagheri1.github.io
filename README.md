@@ -1,14 +1,20 @@
-# Secutity professional
+# Cloud Security Researcher
 
-### Educatin
-information systems security, MASc
 
-### Work Experience
-android developer @ Jooya
-- project 1:
-- project 2:
+## Educatin
+#### Concordia University
+MASc in Information Systems Security
 
-### Projects
+#### Shahid Beheshti University
+MSc in Information Technology Engineering
+
+#### Shahid Beheshti University
+BSc in Computer Software Engineering
+
+## Academic Experience
+Graduate Research Assistant
+
+## Projects
 - warp
 - prospec
 - codo
