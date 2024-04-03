@@ -63,7 +63,7 @@ I would love to explore topics on:
     - Computer Networks: Head TA (assignments, and mini projects designer), Winter 2018
 
 ## Academic Service
--**Technical Program committee**
+- **Technical Program committee**
   - International Symposium on Communication Systems, Networks and Digital Signal Processing (CSNDSP 2024)
 - **External Reviewer**
   - Journal of Computers and Security
