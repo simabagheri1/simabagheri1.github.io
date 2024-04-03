@@ -105,5 +105,3 @@ Shahid Beheshti University, Tehran, Iran
 - Concordia Graduate Student Association (GSA) Conference Funding (2023)
 - Best undergraduate researcher student award with research paper (2017)
 - Admitted as exceptional talent to MSc program (Exempted from National MSc entrance exam- Concour) (2017)
-
-##
