@@ -3,6 +3,8 @@ I obtained my MASc from Concordia Univeristy, Montreal where I worked with Profs
 
 [Download my CV here](/assets/pdf/SimaBagheriCV.pdf) 
 
+-------
+
 ## Educatin
 **Concordia University**  
 MASc in Information Systems Security (2020-2023)
@@ -13,6 +15,21 @@ Grade: Distinction
 
 **Shahid Beheshti University**  
 BSc in Computer Software Engineering (2013-2017)
+
+---------
+  
+## Research Interest
+I am interested in a wide range of topics in Security and cloud. My recent projects are focused on:
+- AI-aided security
+- Cloud/Container security
+- VNF placement (optimization) 
+
+I would love to explore topics on:
+- AI security
+- Usable security
+- Internet measurement
+
+---------
 
 ## Academic Experience
 **Research Assistant**  
@@ -25,17 +42,9 @@ NSERC/Ericsson IRC in SDN/NFV Security Project
 Shahid Beheshti University, Tehran, Iran
 - Optimal Firewall Rule Composition and Decomposition in Cloud (Role: project leader)
 - Software Project Estimation using Improved Use Case Point (focused on software development risks) (Role: project leader)
-  
-## Research Interest
-I am interested in a wide range of topics in Security and cloud. My recent projects are focused on:
-- AI-aided security
-- Cloud/Container security
-- VNF placement (optimization) 
 
-I would love to explore topics on:
-- AI security
-- Usable security
-- Internet measurement
+
+--------
 
 ## Publication
 - **Warping the Defence Timeline: Non-disruptive Proactive Attack Mitigation for Kubernetes Clusters**    
@@ -55,6 +64,7 @@ I would love to explore topics on:
   *Hugo Kermabon-Bobinnec, **Sima Bagheri**, Suryadipta Majumdar, Yosr Jarraya, Lingyu Wang, Makan Pourzandi
   Submitted to IEEE Transactions on Dependable and Secure Computing (TDSC)*
 
+--------
 
 ## Teaching
 - **Teaching Assistant**
@@ -64,6 +74,8 @@ I would love to explore topics on:
   - Shahid Beheshti University
     - Software Engineering I/II: Head TA (assignments, and project designer), Fall 2017, Winter 2018
     - Computer Networks: Head TA (assignments, and mini projects designer), Winter 2018
+
+--------
 
 ## Academic Service
 - **Technical Program committee**
@@ -77,7 +89,8 @@ I would love to explore topics on:
   - Workshop on Enterprise Architecture Development in South Korea (2018)
 - **Mentor**
   - Providing active guidance to undergraduate students at SBU (Currently 3 active mentees)
- 
+
+--------
 ## Talks
 - [Warping the Defence Timeline: Non-disruptive Proactive Attack Mitigation for Kubernetes Clusters](/assets/pdf/Sima_WARP_ICC.pdf)  
   In: International Conference on Communications, Rome, Italy (May 2023)
@@ -86,7 +99,7 @@ I would love to explore topics on:
 - Software Project Estimation using Improved Used Case Points  
   In: IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Kunming, China (June 2018)
 
-
+-------
 ## Awards
 - Concordia university travel grant (2023)
 - Concordia Graduate Student Association (GSA) Conference Funding (2023)
