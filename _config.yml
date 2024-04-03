@@ -2,5 +2,7 @@ title: Sima Bagheri
 description: Cloud Security Researcher
 logo: /assets/img/profile2.png
 theme: jekyll-theme-minimal
-sidebar:
-  - getting-started
+minima:
+  social_links:
+    scholar: https://scholar.google.ca/citations?user=jyRJPwMAAAAJ&hl=en&oi=ao
+    LinkedIn: https://www.linkedin.com/in/sima-bagheri-1194b9103/
