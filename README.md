@@ -35,7 +35,7 @@ I would love to explore topics on:
 - Internet measurement
 
 ## Publication
-- ### Warping the Defence Timeline: Non-disruptive Proactive Attack Mitigation for Kubernetes Clusters  
+- #### Warping the Defence Timeline: Non-disruptive Proactive Attack Mitigation for Kubernetes Clusters  
   **Sima Bagheri**, Hugo Kermabon-Bobinnec, Suryadipta Majumdar, Yosr Jarraya, Lingyu Wang, Makan Pourzandi (ICC 2023)
 - ### ProSPEC: Proactive Security Policy Enforcement for Containers  
   Hugo Kermabon-Bobinnec, Mahmood Gholipourchoubeh, **Sima Bagheri**, Suryadipta Majumdar, Yosr Jarraya, Makan Pourzandi, Lingyu Wang (CODASPY 2022)
