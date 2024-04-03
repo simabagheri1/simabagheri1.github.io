@@ -2,7 +2,6 @@ title: Sima Bagheri
 description: Cloud Security Researcher
 logo: /assets/img/profile2.png
 theme: jekyll-theme-minimal
-minima:
-  social_links:
-    scholar: https://scholar.google.ca/citations?user=jyRJPwMAAAAJ&hl=en&oi=ao
-    LinkedIn: https://www.linkedin.com/in/sima-bagheri-1194b9103/
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
