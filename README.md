@@ -77,6 +77,15 @@ I would love to explore topics on:
   - Workshop on Enterprise Architecture Development in South Korea (2018)
 - **Mentor**
   - Providing active guidance to undergraduate students at SBU (Currently 3 active mentees)
+ 
+## Talks
+- [Warping the Defence Timeline: Non-disruptive Proactive Attack Mitigation for Kubernetes Clusters](/assets/pdf/Sima_WARP_ICC.pdf)  
+  In: International Conference on Communications, Rome, Italy (May 2023)
+- [Proactive Non-Disruptive Cluster-level Mitigation in Container-based Environment](/assets/pdf/Steering_Sima.pdf)  
+  In: Quarterly research progress for the industrial partner, Ericsson Inc., Montreal, Canada (April 2022)
+- Software Project Estimation using Improved Used Case Points  
+  In: IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, Kunming, China (June 2018)
+
 
 ## Awards
 - Concordia university travel grant (2023)
