@@ -5,7 +5,7 @@ I obtained my MASc from Concordia Univeristy, Montreal where I worked with Profs
 
 -------
 
-## Educatin
+## Education
 **Concordia University**  
 MASc in Information Systems Security (2020-2023)
 
