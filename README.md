@@ -18,7 +18,7 @@ BSc in Computer Software Engineering (2013-2017)
 
 ---------
   
-## Research Interest
+## Research Interests
 I am interested in a wide range of topics in Security and cloud. My recent projects are focused on:
 - AI-aided security
 - Cloud/Container security
@@ -46,7 +46,7 @@ Shahid Beheshti University, Tehran, Iran
 
 --------
 
-## Publication
+## Publications
 - **Warping the Defence Timeline: Non-disruptive Proactive Attack Mitigation for Kubernetes Clusters**    
   ***Sima Bagheri**, Hugo Kermabon-Bobinnec, Suryadipta Majumdar, Yosr Jarraya, Lingyu Wang, Makan Pourzandi (ICC 2023)*
 - **ProSPEC: Proactive Security Policy Enforcement for Containers**
