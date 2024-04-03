@@ -37,18 +37,18 @@ I would love to explore topics on:
 ## Publication
 - #### Warping the Defence Timeline: Non-disruptive Proactive Attack Mitigation for Kubernetes Clusters  
   **Sima Bagheri**, Hugo Kermabon-Bobinnec, Suryadipta Majumdar, Yosr Jarraya, Lingyu Wang, Makan Pourzandi (ICC 2023)
-- ### ProSPEC: Proactive Security Policy Enforcement for Containers  
+- #### ProSPEC: Proactive Security Policy Enforcement for Containers  
   Hugo Kermabon-Bobinnec, Mahmood Gholipourchoubeh, **Sima Bagheri**, Suryadipta Majumdar, Yosr Jarraya, Makan Pourzandi, Lingyu Wang (CODASPY 2022)
-- ### Dynamic Firewall Decomposition and Composition in the Cloud  
+- #### Dynamic Firewall Decomposition and Composition in the Cloud  
   **Sima Bagheri**, Alireza Shameli-Sendi, Journal of IEEE Transactions on Information Forensics & Security (TIFS 2020)
-- ### Software Project Estimation using Improved Use Case Point  
+- #### Software Project Estimation using Improved Use Case Point  
   **Sima Bagheri**, Alireza Shameli-Sendi, (SERA 2018)  
   
 **Under Review**
-- ### ACE-WARP: A Cost-Effective Approach to Proactive and Non-disruptive Attack Mitigation in Kubernetes Clusters
+- #### ACE-WARP: A Cost-Effective Approach to Proactive and Non-disruptive Attack Mitigation in Kubernetes Clusters
   **Sima Bagheri**, Hugo Kermabon-Bobinnec, Mohammad Ekramul Kabir, Suryadipta Majumdar, Yosr Jarraya, Lingyu Wang, Makan Pourzandi
   Submitted to IEEE Transactions on Information Forensics & Security (TIFS)
-- ### PerfSPEC: Performance Profiling-based Proactive Security Policy Enforcement for Containers
+- #### PerfSPEC: Performance Profiling-based Proactive Security Policy Enforcement for Containers
   Hugo Kermabon-Bobinnec, **Sima Bagheri**, Suryadipta Majumdar, Yosr Jarraya, Lingyu Wang, Makan Pourzandi
   Submitted to IEEE Transactions on Dependable and Secure Computing (TDSC)
 
