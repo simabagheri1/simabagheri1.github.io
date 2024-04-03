@@ -1,25 +1,26 @@
-# Cloud Security Researcher
-
+## About Me
+I am a MASc student at Concordia Univeristy under supervision of Prof. Lingyu Wang, and Prof. Suryadipta Majumdar. I am also involved as a researcher in NSERC/Ericsson IRC in SDN/NFV Security. Currently, my research project is ACE-WARP, an academic research project that aims to optimize the utilization of non-disruptive attack mitigation solutions.
+I am highly interested in machine learning application in security/privacy, threat analysis, offensive security, and usable security/privacy topics.
 
 ## Educatin
-#### Concordia University
+**Concordia University**  
 MASc in Information Systems Security (2020-2023)
 
-#### Shahid Beheshti University
+**Shahid Beheshti University**  
 MSc in Information Technology Engineering (2017-2019)
 Grade: Distinction
 
-#### Shahid Beheshti University
+**Shahid Beheshti University**  
 BSc in Computer Software Engineering (2013-2017)
 
 ## Academic Experience
-**Research Assistant**
-Concordia Institute for Information Systems Engineering, Montreal, Canada
+**Research Assistant**  
+Concordia Institute for Information Systems Engineering, Montreal, Canada  
 NSERC/Ericsson IRC in SDN/NFV Security Project
 - Cost-Effective Approach to Proactive and Non-disruptive Attack Mitigation in Kubernetes Clusters (Role: project leader)
 - Proactive Security Policy Enforcement for Containers (Role: project team member)
 
-**Undergraduate & graduate Research Assistant**
+**Undergraduate & graduate Research Assistant**  
 Shahid Beheshti University, Tehran, Iran
 - Optimal Firewall Rule Composition and Decomposition in Cloud (Role: project leader)
 - Software Project Estimation using Improved Use Case Point (focused on software development risks) (Role: project leader)
