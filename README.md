@@ -37,10 +37,6 @@ I would love to explore topics on:
 - Usable security
 - Internet measurement
 
----
-id: getting-started
----
-
 ## Publication
 - **Warping the Defence Timeline: Non-disruptive Proactive Attack Mitigation for Kubernetes Clusters**    
   ***Sima Bagheri**, Hugo Kermabon-Bobinnec, Suryadipta Majumdar, Yosr Jarraya, Lingyu Wang, Makan Pourzandi (ICC 2023)*
