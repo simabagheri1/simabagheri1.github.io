@@ -41,8 +41,8 @@ I would love to explore topics on:
 - Dynamic Firewall Decomposition and Composition in the Cloud
   **Sima Bagheri**, Alireza Shameli-Sendi, Journal of IEEE Transactions on Information Forensics & Security (TIFS 2020)
 - Software Project Estimation using Improved Use Case Point
-  **Sima Bagheri**, Alireza Shameli-Sendi, (SERA 2018)
-
+  **Sima Bagheri**, Alireza Shameli-Sendi, (SERA 2018)  
+  
 **Under Review**
 - ACE-WARP: A Cost-Effective Approach to Proactive and Non-disruptive Attack Mitigation in Kubernetes Clusters
   **Sima Bagheri**, Hugo Kermabon-Bobinnec, Mohammad Ekramul Kabir, Suryadipta Majumdar, Yosr Jarraya, Lingyu Wang, Makan Pourzandi
@@ -53,26 +53,26 @@ I would love to explore topics on:
 
 
 ## Teaching
-**Teaching Assistant**
-- Concordia University
-  - SOEN 321 (Information Systems Security): Tutor, Programmer on Duty (POD), Winter 2022
-  - INSE 6130 (Operating System Security): Marker, Fall 2022
-- Shahid Beheshti University
-  - Software Engineering I/II: Head TA (assignments, and project designer), Fall 2017, Winter 2018
-  - Computer Networks: Head TA (assignments, and mini projects designer), Winter 2018
+- **Teaching Assistant**
+  - Concordia University
+    - SOEN 321 (Information Systems Security): Tutor, Programmer on Duty (POD), Winter 2022
+    - INSE 6130 (Operating System Security): Marker, Fall 2022
+  - Shahid Beheshti University
+    - Software Engineering I/II: Head TA (assignments, and project designer), Fall 2017, Winter 2018
+    - Computer Networks: Head TA (assignments, and mini projects designer), Winter 2018
 
 ## Academic Service
-**Technical Program committee**
-- International Symposium on Communication Systems, Networks and Digital Signal Processing (CSNDSP 2024)
-**External Reviewer**
-- Journal of Computers and Security
-- The Web Conference- Security, Privacy, and Trust track (WWW 2023)
-- European Symposium on Research in Computer Security (ESORICS 2021)
-**Conference and Workshop Organizer**
-- Iranian Conference on Advances in Enterprise Architecture (ICAEA 2018)
-- Workshop on Enterprise Architecture Development in South Korea (2018)
-**Mentor**
-- Providing active guidance to undergraduate students at SBU (Currently 3 active mentees)
+-**Technical Program committee**
+  - International Symposium on Communication Systems, Networks and Digital Signal Processing (CSNDSP 2024)
+- **External Reviewer**
+  - Journal of Computers and Security
+  - The Web Conference- Security, Privacy, and Trust track (WWW 2023)
+  - European Symposium on Research in Computer Security (ESORICS 2021)
+- **Conference and Workshop Organizer**
+  - Iranian Conference on Advances in Enterprise Architecture (ICAEA 2018)
+  - Workshop on Enterprise Architecture Development in South Korea (2018)
+- **Mentor**
+  - Providing active guidance to undergraduate students at SBU (Currently 3 active mentees)
 
 ## Awards
 - Concordia university travel grant (2023)
