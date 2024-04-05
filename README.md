@@ -19,12 +19,13 @@ BSc in Computer Software Engineering (2013-2017)
 ---------
   
 ## Research Interests
-I am interested in a wide range of topics in Security and cloud. My recent projects are focused on:
+I am interested in a wide range of topics in security and cloud.  
+My recent projects are focused on:
 - AI-aided security
 - Cloud/Container security
 - VNF placement (optimization) 
 
-I would love to expand my research on the following topics:
+I would love to expand my research on the following topics, as I have a GREAT passion for psychology and social science:
 - Usable security and privacy
 - Human-AI interaction
 - Internet measurement
@@ -101,7 +102,7 @@ Shahid Beheshti University, Tehran, Iran
 
 -------
 ## Awards
-- Concordia university travel grant (2023)
-- Concordia Graduate Student Association (GSA) Conference Funding (2023)
+- Concordia university travel award (2023)
+- Concordia graduate student association (GSA) conference funding (2023)
 - Best undergraduate researcher student award with research paper (2017)
 - Admitted as exceptional talent to MSc program (Exempted from National MSc entrance exam- Concour) (2017)
