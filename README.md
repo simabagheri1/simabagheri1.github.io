@@ -28,7 +28,7 @@ My recent projects are focused on:
 I would love to expand my research on the following topics, as I have a GREAT passion for psychology and social science:
 - Usable security and privacy
 - Human-AI interaction
-- Internet measurement
+- Social computing
 
 ---------
 
