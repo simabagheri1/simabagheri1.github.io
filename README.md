@@ -24,9 +24,9 @@ I am interested in a wide range of topics in Security and cloud. My recent proje
 - Cloud/Container security
 - VNF placement (optimization) 
 
-I would love to explore topics on:
-- AI security
-- Usable security
+I would love to expand my research on the following topics:
+- Usable security and privacy
+- Human-AI interaction
 - Internet measurement
 
 ---------
