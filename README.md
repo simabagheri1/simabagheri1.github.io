@@ -79,7 +79,7 @@ Shahid Beheshti University, Tehran, Iran
 --------
 
 ## Academic Service
-- **Technical Program committee**
+- **Technical Program Committee**
   - International Symposium on Communication Systems, Networks and Digital Signal Processing (CSNDSP 2024)
 - **External Reviewer**
   - Journal of Computers and Security
