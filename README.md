@@ -106,3 +106,7 @@ Shahid Beheshti University, Tehran, Iran
 - Concordia graduate student association (GSA) conference funding (2023)
 - Best undergraduate researcher student award with research paper (2017)
 - Admitted as exceptional talent to MSc program (Exempted from National MSc entrance exam- Concour) (2017)
+------
+
+## Personal 
+I am a very professional cook, and food passion has been in family for generations (I am kinda health nut as well). I love discussing on social/psychological topics, meditating, and gardening.
