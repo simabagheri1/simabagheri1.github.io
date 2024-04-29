@@ -1,7 +1,4 @@
----
-title: Home
-layout: home
----
+
 I obtained my MASc from Concordia Univeristy, Montreal where I worked with Profs. Lingyu Wang and Suryadipta Majumdar. I was involved as a researcher in [NSERC/Ericsson IRC in SDN/NFV Security project](https://arc.encs.concordia.ca/index.html). My research focus is on optimal proactive attack detection and non-disruptive mitigation in cloud environment. [Download my dissertation titled "A Cost-Effective Approach to Proactive and Non-disruptive Attack Mitigation in Kubernetes Clusters" here](/assets/pdf/Sima_Thesis.pdf). 
 
 [Download my CV here](/assets/pdf/Sima_academicCV.pdf) 
