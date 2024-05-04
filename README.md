@@ -7,14 +7,11 @@ I obtained my MASc from Concordia Univeristy, Montreal where I worked with Profs
 
 ## Education
 **Concordia University**  
-MASc in Information Systems Security (2020-2023)
+MASc in Information Systems Security (2020-2023) 
 
 **Shahid Beheshti University**  
-MSc in Information Technology Engineering (2017-2019)
-Grade: Distinction
-
-**Shahid Beheshti University**  
-BSc in Computer Software Engineering (2013-2017)
+BSc and MSc in Computer Software Engineering (2013-2017) 
+Grade: Distinction (Received the "Direct MSc Award), under the “Exceptional talents program” for the top 5 students)
 
 ---------
   
