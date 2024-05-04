@@ -11,7 +11,7 @@ MASc in Information Systems Security (2020-2023)
 
 **Shahid Beheshti University**  
 BSc and MSc in Computer Software Engineering (2013-2017) 
-Grade: Distinction (Received the "Direct MSc Award), under the “Exceptional talents program” for the top 5 students)
+Grade: Distinction (Received the "Direct MSc Award), under the “Exceptional Talents Program” for the top 5 students)
 
 ---------
   
