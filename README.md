@@ -1,8 +1,6 @@
 
 I obtained my MASc from Concordia Univeristy, Montreal where I worked with Profs. Lingyu Wang and Suryadipta Majumdar. I was involved as a researcher in [NSERC/Ericsson IRC in SDN/NFV Security project](https://arc.encs.concordia.ca/index.html). My research focus is on optimal proactive attack detection and non-disruptive mitigation in cloud environment. 
 
-[Download my CV here](/assets/pdf/Sima_academicCV.pdf) 
-
 -------
 
 ## Education
@@ -107,4 +105,4 @@ Shahid Beheshti University, Tehran, Iran
 ------
 
 ## Personal 
-I am a professional cook, and food passion has been in family for generations. I am kinda health nut as well and love discussing on social/psychological topics, meditating, and gardening.
+I am a professional cook, and food passion is in my DNA! I am kinda health nut as well and love discussing on social/psychological topics, meditating, running, and gardening.
