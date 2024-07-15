@@ -20,10 +20,10 @@ My recent projects are focused on:
 - Cloud/Container security
 - VNF placement (optimization) 
 
-I would love to expand my research on the following topics, as I have a GREAT passion for psychology and social science:
+I would love to expand my research on the following topics:
+- Intelligent threat hunting
+- AI-aided Social cybersecurity
 - Usable security and privacy
-- Human-Computer interaction
-- Social computing, and social cybersecurity
 
 ---------
 
