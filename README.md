@@ -105,4 +105,4 @@ Shahid Beheshti University, Tehran, Iran
 ------
 
 ## Personal 
-I am a professional cook, and food passion is in my DNA! I am kinda health nut as well and love discussing on social/psychological topics, meditating, running, and gardening.
+I love talking about food/cooking and  discussing on social/psychological topics. In my free time I work out, run, skate, and take care of my little garden in summer!
