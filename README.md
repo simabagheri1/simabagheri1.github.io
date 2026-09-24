@@ -1,5 +1,5 @@
 
-I obtained my MASc from Concordia Univeristy, Montreal where I worked with Profs. Lingyu Wang and Suryadipta Majumdar. I was involved as a researcher in [NSERC/Ericsson IRC in SDN/NFV Security project](https://arc.encs.concordia.ca/index.html). My research focus is on optimal proactive attack detection and non-disruptive mitigation in cloud environment. 
+I obtained my MASc from Concordia Univeristy, Montreal where I worked with Profs. Lingyu Wang and Suryadipta Majumdar and was involved as a researcher in [NSERC/Ericsson IRC in SDN/NFV Security project](https://arc.encs.concordia.ca/index.html). My research focus has been on optimal proactive attack detection and non-disruptive mitigation in cloud environment. 
 
 [Blog](blog)
 
@@ -11,8 +11,8 @@ I obtained my MASc from Concordia Univeristy, Montreal where I worked with Profs
 MASc in Information Systems Security (2020-2023) 
 
 **Shahid Beheshti University**  
-BSc and MSc in Computer Software Engineering (2013-2017)   
-Grade: Distinction (Received the "Direct MSc Award), under the “Exceptional Talents Program” for the top 5 students.
+BSc and MSc in Computer Software Engineering, and Information Technology (Enterprise Architecture) (2013-2017 and 2017-2019)   
+Grade: Distinction (Received the "Direct MSc Award), under the “Exceptional Talents Program” for the top students.
 
 ---------
   
@@ -54,8 +54,6 @@ Shahid Beheshti University, Tehran, Iran
   ***Sima Bagheri**, Alireza Shameli-Sendi, Journal of IEEE Transactions on Information Forensics & Security (TIFS 2020)*
 - **Software Project Estimation using Improved Use Case Point**  
   ***Sima Bagheri**, Alireza Shameli-Sendi, (SERA 2018)*  
-  
-**Under Review**
 - **ACE-WARP: A Cost-Effective Approach to Proactive and Non-disruptive Attack Mitigation in Kubernetes Clusters**  
   ***Sima Bagheri**, Hugo Kermabon-Bobinnec, Mohammad Ekramul Kabir, Suryadipta Majumdar, Yosr Jarraya, Lingyu Wang, Makan Pourzandi
   Submitted to IEEE Transactions on Information Forensics & Security (TIFS)*
