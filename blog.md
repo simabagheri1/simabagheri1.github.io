@@ -9,5 +9,5 @@ Welcome to my blog. Here are some of my highlights, interests, opinions, etc.:
 ## Posts
 
 - [Less Psychology, more Philosophy](post1)
-- [...](post2)
+- [Sense of Reality](post2)
 - [...](post3)
