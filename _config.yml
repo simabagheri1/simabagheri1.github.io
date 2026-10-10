@@ -1,0 +1,12 @@
+title: A Little Place to Remember
+subtitle: Notes from an ordinary life
+pen_name: S.B.
+description: A personal journal of thoughts, memories, and questions about living.
+url: ""
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - post2-draft.txt
+  - '*.zip'
